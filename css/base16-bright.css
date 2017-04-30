@@ -1,0 +1,35 @@
+/* Bright by Chris Kempson (http://chriskempson.com) */
+
+.base00-bg { background-color: #000000; }
+.base01-bg { background-color: #303030; }
+.base02-bg { background-color: #505050; }
+.base03-bg { background-color: #b0b0b0; }
+.base04-bg { background-color: #d0d0d0; }
+.base05-bg { background-color: #e0e0e0; }
+.base06-bg { background-color: #f5f5f5; }
+.base07-bg { background-color: #ffffff; }
+.base08-bg { background-color: #fb0120; }
+.base09-bg { background-color: #fc6d24; }
+.base0A-bg { background-color: #fda331; }
+.base0B-bg { background-color: #a1c659; }
+.base0C-bg { background-color: #76c7b7; }
+.base0D-bg { background-color: #6fb3d2; }
+.base0E-bg { background-color: #d381c3; }
+.base0F-bg { background-color: #be643c; }
+
+.base00 { color: #000000; }
+.base01 { color: #303030; }
+.base02 { color: #505050; }
+.base03 { color: #b0b0b0; }
+.base04 { color: #d0d0d0; }
+.base05 { color: #e0e0e0; }
+.base06 { color: #f5f5f5; }
+.base07 { color: #ffffff; }
+.base08 { color: #fb0120; }
+.base09 { color: #fc6d24; }
+.base0A { color: #fda331; }
+.base0B { color: #a1c659; }
+.base0C { color: #76c7b7; }
+.base0D { color: #6fb3d2; }
+.base0E { color: #d381c3; }
+.base0F { color: #be643c; }

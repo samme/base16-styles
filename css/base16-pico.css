@@ -1,0 +1,35 @@
+/* Pico by PICO-8 (http://www.lexaloffle.com/pico-8.php) */
+
+.base00-bg { background-color: #000000; }
+.base01-bg { background-color: #1d2b53; }
+.base02-bg { background-color: #7e2553; }
+.base03-bg { background-color: #008751; }
+.base04-bg { background-color: #ab5236; }
+.base05-bg { background-color: #5f574f; }
+.base06-bg { background-color: #c2c3c7; }
+.base07-bg { background-color: #fff1e8; }
+.base08-bg { background-color: #ff004d; }
+.base09-bg { background-color: #ffa300; }
+.base0A-bg { background-color: #fff024; }
+.base0B-bg { background-color: #00e756; }
+.base0C-bg { background-color: #29adff; }
+.base0D-bg { background-color: #83769c; }
+.base0E-bg { background-color: #ff77a8; }
+.base0F-bg { background-color: #ffccaa; }
+
+.base00 { color: #000000; }
+.base01 { color: #1d2b53; }
+.base02 { color: #7e2553; }
+.base03 { color: #008751; }
+.base04 { color: #ab5236; }
+.base05 { color: #5f574f; }
+.base06 { color: #c2c3c7; }
+.base07 { color: #fff1e8; }
+.base08 { color: #ff004d; }
+.base09 { color: #ffa300; }
+.base0A { color: #fff024; }
+.base0B { color: #00e756; }
+.base0C { color: #29adff; }
+.base0D { color: #83769c; }
+.base0E { color: #ff77a8; }
+.base0F { color: #ffccaa; }

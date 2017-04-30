@@ -1,0 +1,35 @@
+/* Green Screen by Chris Kempson (http://chriskempson.com) */
+
+.base00-bg { background-color: #001100; }
+.base01-bg { background-color: #003300; }
+.base02-bg { background-color: #005500; }
+.base03-bg { background-color: #007700; }
+.base04-bg { background-color: #009900; }
+.base05-bg { background-color: #00bb00; }
+.base06-bg { background-color: #00dd00; }
+.base07-bg { background-color: #00ff00; }
+.base08-bg { background-color: #007700; }
+.base09-bg { background-color: #009900; }
+.base0A-bg { background-color: #007700; }
+.base0B-bg { background-color: #00bb00; }
+.base0C-bg { background-color: #005500; }
+.base0D-bg { background-color: #009900; }
+.base0E-bg { background-color: #00bb00; }
+.base0F-bg { background-color: #005500; }
+
+.base00 { color: #001100; }
+.base01 { color: #003300; }
+.base02 { color: #005500; }
+.base03 { color: #007700; }
+.base04 { color: #009900; }
+.base05 { color: #00bb00; }
+.base06 { color: #00dd00; }
+.base07 { color: #00ff00; }
+.base08 { color: #007700; }
+.base09 { color: #009900; }
+.base0A { color: #007700; }
+.base0B { color: #00bb00; }
+.base0C { color: #005500; }
+.base0D { color: #009900; }
+.base0E { color: #00bb00; }
+.base0F { color: #005500; }
